@@ -46,7 +46,7 @@ python combine_pdfs.py /path/to/your/folder -o OutputFileName.pdf
    ```bash
    python combine_pdfs.py /home/user/pdfs -o MergedPDF.pdf
    ```
-2.  Combine all PDFs in the folder `/home/user/pdfs` and save the output using the default output file name:
+2. Combine all PDFs in the folder `/home/user/pdfs` and save the output using the default output file name:
    ```bash
    python combine_pdfs.py /home/user/pdfs
    ```
