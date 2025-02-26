@@ -24,5 +24,5 @@ This Python script combines multiple PDF files from a specified folder into a si
    pip install pypdf
 
 3. **Download the Script**:
-- Save the script as combine_pdfs.py.
-- Place it in a directory where you can easily run it from the terminal.
+   - Save the script as combine_pdfs.py.
+   - Place it in a directory where you can easily run it from the terminal.
